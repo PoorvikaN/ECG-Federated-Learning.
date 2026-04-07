@@ -1,0 +1,9 @@
+numpy==1.26.4
+pandas==2.0.3
+matplotlib==3.7.2
+wfdb==4.1.2
+scikit-learn==1.3.2
+torch==2.2.2
+flwr==1.8.0
+shap==0.44.1
+tqdm==4.66.1
