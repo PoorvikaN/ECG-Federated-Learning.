@@ -17,7 +17,7 @@ Approved by UGC & AICTE, New Delhi
 
 ---
 ## Explainable Federated Learning for Secure and Transparent Medical Diagnosis in IoT-based Smart Hospitals 
----
+
 **High-Fidelity ML-based ECG Classification using Federated Learning & Explainability**
 
 **TTEH Research Project**
@@ -189,6 +189,11 @@ ECG-Federated-Learning/
 ├── data/
 ├── notebooks/
 ├── results/
+│   ├── .getkeep
+│   ├── accuracy.png
+│   ├── ecg_sample.png
+│   ├── shap_plot.png
+│   ├── system_architecture.png
 ├── src/
 │   ├── model.py
 │   ├── data_utils.py
@@ -293,6 +298,7 @@ python src/explain.py
 ### Sample ECG Signal
 
 ![ECG Signal](results/ecg_sample.png)
+
 
 ---
 
