@@ -1,7 +1,29 @@
+<p align="center">
+  <img src="results/dsu_logo.png" width="100"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="results/cyber_logo.png" width="100"/>
+</p>
 
-### High-Fidelity ML-based ECG Classification using Federated Learning & Explainability
+<h2 align="center">DAYANANDA SAGAR UNIVERSITY</h2>
+
+<p align="center">
+School of Engineering <br>
+Department of Computer Science and Engineering (Cyber Security)
+</p>
+
+<p align="center">
+(A State Private University under the Karnataka Act No. 20 of 2013) <br>
+Approved by UGC & AICTE, New Delhi
+</p>
+
+---
+
+## High-Fidelity ML-based ECG Classification using Federated Learning & Explainability
 
 **TTEH Research Project**
+                                   ### High-Fidelity ML-based ECG Classification using Federated Learning & Explainability
+
+                                                               **TTEH Research Project**
 
 ---
 
@@ -286,7 +308,7 @@ python src/explain.py
 
 ---
 
-## Team
+## Contributors
    
 | Name                 | USN         | Email                     |
 |----------------------|-------------|---------------------------|
