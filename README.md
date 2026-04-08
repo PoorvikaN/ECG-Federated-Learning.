@@ -1,4 +1,3 @@
-<img width="1072" height="626" alt="image" src="https://github.com/user-attachments/assets/ccbe24a7-3ac4-4931-91ea-abc48848d1c7" /># 🫀 ECG Federated Learning — Explainable AI for Smart Healthcare
 
 ### High-Fidelity ML-based ECG Classification using Federated Learning & Explainability
 
