@@ -64,11 +64,10 @@ Keywords: Federated Learning, ECG Classification, Explainable AI, Healthcare AI,
 6. [Performance Evaluation](#-performance-evaluation)
 7. [Explainability](#-explainability)
 8. [Code Architecture](#-code-architecture)
-9. [System Architecture](#-system-architecture)
-10. [Core Modules](#-core-modules)
-11. [Setup & Usage](#-setup--usage)
-12. [Implementation Results](#-implementation-results)
-13. [Limitations](#-limitations)
+9. [Core Modules](#-core-modules)
+10. [Setup & Usage](#-setup--usage)
+11. [Implementation Results](#-implementation-results)
+12. [Limitations](#-limitations)
   
 ---
 
