@@ -88,7 +88,6 @@ The system follows a distributed federated learning pipeline where clients colla
 
 The proposed system follows a federated learning architecture with explainability support.
 
-results/Federated learning flowchart for ECG classification (1).png
 ![System Architecture](results/system_architecture.png)
 
 ---
