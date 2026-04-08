@@ -1,1 +1,13 @@
-DATASETS URL:  https://physionet.org/content/mitdb/1.0.0/
+Download the MIT-BIH Arrhythmia Dataset from:
+
+https://physionet.org/content/mitdb/1.0.0
+
+Extract it and place inside this folder.
+
+Expected structure:
+
+data/
+└── mit-bih-arrhythmia-database-1.0.0/
+    ├── 100.dat
+    ├── 100.hea
+    ├── 100.atr
