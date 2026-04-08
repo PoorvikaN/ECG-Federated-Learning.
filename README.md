@@ -16,8 +16,9 @@ Approved by UGC & AICTE, New Delhi
 </p>
 
 ---
-
-## High-Fidelity ML-based ECG Classification using Federated Learning & Explainability
+## Explainable Federated Learning for Secure and Transparent Medical Diagnosis in IoT-based Smart Hospitals 
+---
+**High-Fidelity ML-based ECG Classification using Federated Learning & Explainability**
 
 **TTEH Research Project**
                                   
