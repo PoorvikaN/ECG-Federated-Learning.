@@ -20,7 +20,7 @@ Approved by UGC & AICTE, New Delhi
 
 **High-Fidelity ML-based ECG Classification using Federated Learning & Explainability**
 
-**TTEH Research Project**
+**TTEH Research Lab**
                                   
 
 ---
@@ -50,7 +50,7 @@ The system is evaluated in both **centralized and federated settings**, demonstr
 
 This work aims to contribute toward **privacy-preserving, interpretable AI solutions for smart healthcare systems**.
 
-Keywords: Federated Learning, ECG Classification, Explainable AI, Healthcare AI, Privacy-Preserving Machine Learning
+**Keywords:** `Federated Learning` `ECG Classification` `Explainable AI` `Healthcare AI` `Privacy-Preserving Machine Learning`
 
 ---
 
