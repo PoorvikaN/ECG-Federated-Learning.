@@ -36,18 +36,18 @@ Keywords: Federated Learning, ECG Classification, Explainable AI, Healthcare AI,
 
 ## Table of Contents
 
-- [Problem Statement](#-problem-statement)
-- [Proposed Architecture](#-proposed-architecture)
-- [Components](#components)
-- [How It Works](#-how-it-works)
-- [Performance Evaluation](#-performance-evaluation)
-- [Explainability](#-explainability)
-- [Code Architecture](#-code-architecture)
-- [System Architecture](#-system-architecture)
-- [Core Modules](#-core-modules)
-- [Setup & Usage](#-setup--usage)
-- [Implementation Results](#-implementation-results)
-- [Limitations](#-limitations)
+1. [Problem Statement](#-problem-statement)
+2. [Proposed Architecture](#-proposed-architecture)
+3. [Components](#components)
+4. [How It Works](#-how-it-works)
+5. [Performance Evaluation](#-performance-evaluation)
+6. [Explainability](#-explainability)
+7. [Code Architecture](#-code-architecture)
+8. [System Architecture](#-system-architecture)
+9. [Core Modules](#-core-modules)
+10. [Setup & Usage](#-setup--usage)
+11. [Implementation Results](#-implementation-results)
+12. [Limitations](#-limitations)
   
 ---
 
@@ -88,43 +88,7 @@ The system follows a distributed federated learning pipeline where clients colla
 
 The proposed system follows a federated learning architecture with explainability support.
 
-
-        +---------------------+
-        |   MIT-BIH Dataset   |
-        +----------+----------+
-                   |
-                   v
-        +---------------------+
-        |  Data Preprocessing |
-        | (Segmentation, Labeling)
-        +----------+----------+
-                   |
-        -----------------------------
-        |            |             |
-        v            v             v
-+-------------+ +-------------+ +-------------+
-|  Client 1   | |  Client 2   | |  Client 3   |
-| (Hospital)  | | (Hospital)  | | (Hospital)  |
-+------+------+ +------+------+ +------+------+
-       |               |               |
-       | Local Training|               |
-       +-------+-------+---------------+
-               |
-               v
-        +---------------------+
-        |   Flower Server     |
-        | (FedAvg Aggregation)|
-        +----------+----------+
-                   |
-                   v
-        +---------------------+
-        |   Global Model      |
-        +----------+----------+
-                   |
-                   v
-        +---------------------+
-        | Explainability (SHAP)|
-        +---------------------+
+![System Architecture](results/system_architecture.png)
 
 ---
 
@@ -136,7 +100,7 @@ The proposed system follows a federated learning architecture with explainabilit
 - **Explainability Module** → SHAP-based interpretation
 
 ---
-## ⚙️ How It Works
+## How It Works
 
 1. ECG data is loaded from the MIT-BIH dataset
 2. Signals are preprocessed and converted into training samples
