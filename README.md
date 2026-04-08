@@ -1,7 +1,6 @@
 <p align="center">
   <img src="results/dsu_logo.png" width="100"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="results/cyber_logo.png" width="100"/>
 </p>
 
 <h2 align="center">DAYANANDA SAGAR UNIVERSITY</h2>
@@ -21,9 +20,7 @@ Approved by UGC & AICTE, New Delhi
 ## High-Fidelity ML-based ECG Classification using Federated Learning & Explainability
 
 **TTEH Research Project**
-                                   ### High-Fidelity ML-based ECG Classification using Federated Learning & Explainability
-
-                                                               **TTEH Research Project**
+                                  
 
 ---
 
