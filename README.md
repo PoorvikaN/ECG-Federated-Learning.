@@ -20,7 +20,7 @@ Approved by UGC & AICTE, New Delhi
 
 **High-Fidelity ML-based ECG Classification using Federated Learning & Explainability**
 
-**TTEH Research Lab**
+**TTEH Lab**
                                   
 
 ---
