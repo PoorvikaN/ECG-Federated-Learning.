@@ -306,7 +306,7 @@ python src/explain.py
 
 - Simulation uses limited number of clients (3 hospitals)
 - Dataset size is relatively small
-- Model architecture is simple (can be improved)
+- Model architecture is not too complex
 - Federated learning overhead increases computation time
 - SHAP explanations may be computationally expensive
 
