@@ -34,6 +34,11 @@ Approved by UGC & AICTE, New Delhi
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ---
+Achived Badge
+
+[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/76dd53db-4fcf-4290-8508-890e8d7a6898.svg)](https://oosmetrics.com/repo/PoorvikaN/ECG-Federated-Learning.)
+
+---
 
 
 ## Overview
@@ -331,10 +336,5 @@ Associate Professor, Department of Computer Science and Engineering (Cyber Secur
 School of Engineering, Dayananda Sagar University  
 
 Email: prajwasimha.sn1@gmail.com
-
----
-Achived Badge
-
-[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/76dd53db-4fcf-4290-8508-890e8d7a6898.svg)](https://oosmetrics.com/repo/PoorvikaN/ECG-Federated-Learning.)
 
 
